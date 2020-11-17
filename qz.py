@@ -209,5 +209,3 @@ def echo_all(message):
                               'Подробнее: https://ru.wikipedia.org/wiki/Чили')
 
     #bot.reply_to(message, message.text)
-
-bot.polling()
